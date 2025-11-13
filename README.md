@@ -65,3 +65,13 @@ Agar tanlashga to‘g‘ri kelsa…
 - **Isitish turi**: Markaziy isitishnimi yoki pechka (kamin)nimi?
 - **Ko‘rinish va joylashuv**: Chiroyli uy, lekin xunuk hududdami yoki xunuk uy, lekin chiroyli hududdami?
 - **Dam olish uyi**: Dengiz bo‘yidagi dam olish uyi yoqadimi yoki tog‘dagi dam olish uyi?
+
+### 7) Rasmlar
+
+![Rasm 1](images/1.png)
+
+![Rasm 2](images/2.png)
+
+![Rasm 3](images/3.png)
+
+![Rasm 4](images/4.png)
