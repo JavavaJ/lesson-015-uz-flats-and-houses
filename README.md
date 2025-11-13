@@ -59,19 +59,29 @@ Agar tanlashga to‘g‘ri kelsa…
 
 - **Qayerda yashash**: Kichik shaharche (suburb)da yashashni xohlaysanmi yoki poytaxt markazidami?
 - **Qo‘shnilar turi**: Qo‘shni sifatida besh farzandli juftliknimi yoki besh itli juftliknimi?
-- **Kvartira holatlari**: Lift bo‘lmagan to‘rtinchi qavatdami yoki yonida restoran bo‘lgan birinchi qavatdami?
-- **Uy kattaligi va hovli kattaligi**: Katta uy, lekin juda kichik hovlimi yoki kichkina uy, lekin juda katta hovlimi?
-- **Uy ichidagi qulayliklar**: Sport zaliga ega uymi yoki o‘yin xonasi bo‘lgan uymi?
-- **Isitish turi**: Markaziy isitishnimi yoki pechka (kamin)nimi?
-- **Ko‘rinish va joylashuv**: Chiroyli uy, lekin xunuk hududdami yoki xunuk uy, lekin chiroyli hududdami?
-- **Dam olish uyi**: Dengiz bo‘yidagi dam olish uyi yoqadimi yoki tog‘dagi dam olish uyi?
-
-### 7) Rasmlar
 
 ![Rasm 1](images/1.png)
 
+- **Kvartira holatlari**: Lift bo‘lmagan to‘rtinchi qavatdami yoki yonida restoran bo‘lgan birinchi qavatdami?
+- **Uy kattaligi va hovli kattaligi**: Katta uy, lekin juda kichik hovlimi yoki kichkina uy, lekin juda katta hovlimi?
+
 ![Rasm 2](images/2.png)
+
+- **Uy ichidagi qulayliklar**: Sport zaliga ega uymi yoki o‘yin xonasi bo‘lgan uymi?
+- **Isitish turi**: Markaziy isitishnimi yoki pechka (kamin)nimi?
+
+![Rasm 4](images/4.png)
+
+- **Ko‘rinish va joylashuv**: Chiroyli uy, lekin xunuk hududdami yoki xunuk uy, lekin chiroyli hududdami?
+- **Dam olish uyi**: Dengiz bo‘yidagi dam olish uyi yoqadimi yoki tog‘dagi dam olish uyi?
 
 ![Rasm 3](images/3.png)
 
-![Rasm 4](images/4.png)
+### 7) Rasmlar
+
+
+
+
+
+
+
